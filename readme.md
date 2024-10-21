@@ -56,13 +56,13 @@ Beyond the realm of code, I am also a videographer and video editor. I believe i
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harsh_2501?theme=dark&font=Quando&ext=activity)
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/PrasoonRawat?theme=dark&font=&extension=activity) -->
 
-![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh2501&theme=dark&show_icons=true)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh2501&theme=dark&show_icons=true)
 
 </div>
- <!--![GitHub Streak](https://streak-stats.demolab.com?user=PrasoonRawat&theme=gruvbox&border_radius=4.5) -->
+ <!--![GitHub Streak](https://streak-stats.demolab.com?user=Harshbardhan&theme=gruvbox&border_radius=4.5) -->
 
 
 
 <!-- <details>
- <summary><h3>👨‍💻 Prasoon's Coding Journey</h3></summary>
+ <summary><h3>Made by:- Harshbardhan </h3></summary>
 </details> -->
